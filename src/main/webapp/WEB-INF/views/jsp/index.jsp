@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Devops Word</h2>
+			<h2>Welcome To K8s Word</h2>
 			<h3>Course @ Linux, jenkins, GitHub, docker, k8s, Terraform, Asiable <h3>
 		</div>	
 	</div>
